@@ -1,5 +1,5 @@
 # edumapgis
-Our GIS Software Project in C++.  Code available upon request.
+Our multi-milestone GIS Software Project in C++.  Code available upon request.
 
 Slides with metric definitions and validations, algorithms/optimization and strategy (steps moving forward): https://docs.google.com/presentation/d/1cRbeXXkmL3Av7tI9j3P8gLzKEkrIujYbpivVo1RrOCM/edit?usp=sharing
 
